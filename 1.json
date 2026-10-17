@@ -1,0 +1,26 @@
+{
+  "csp": "default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; worker-src 'self'; manifest-src 'self'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'; object-src 'none'",
+  "files": {
+    "/static/app.css": "4745cf724fbe90e5398b738a007ac6fa47ffef75a9a1a9938e34a93069c5e9e9",
+    "/static/build.json": "cedb60dfefb0ead1fa5a3ccb3c68e0ceaf4bb3415df80c79863092f362bd5ab9",
+    "/static/display_fonts.json": "48ed1e9c31fd9422eaa54d10145e5f1bbe990eef3817fb11c2fbe0cbe8343d69",
+    "/static/gazetteer.tsv": "1a02005250ffe5f9c8f66339e7d23190cdf54a5f3236151a579424813d5a1ad4",
+    "/static/meridian-crypto.js": "6a5f9dee8392afe5d1560a147c9946ae2ffeab23d2b591d35f8e1376c440ee19",
+    "/static/meridian-forms.js": "3a1aa6cc23b1c25878b172f418c55a232c3b54b653db17632ab190c4af79e3e5",
+    "/static/meridian-geo.js": "6be656ca16c966d429949e278196dcc0fc52b4f73ad4c2e5de39803e4d7d24fe",
+    "/static/meridian-guard.js": "4a9f212f8adf477925825db6023cc77d038e09ecf447608844c53f4669ba9ebd",
+    "/static/meridian-page.js": "c715f4d3c70d6c1515452cf354e09cade16fb8244b25b43a6a7daa5b27c6945d",
+    "/static/meridian-passkey.js": "c3f93283d191b3b456400f7bf30beb055b9c6195c551b1fd204295d94939bee7",
+    "/static/meridian-phone.js": "411d65dd94cb5c86eb7b88d893b784e35c0783a1c493abfb30607418f8115328",
+    "/static/meridian-proto.js": "7d1a6c6985b517f3981f1718a243ada2b445ffc149ce927ef5815894dbc8a9f4",
+    "/static/meridian-text.js": "e0461d4983e5e8f7f65a5fb3e05c08439a76637f929fdcd6b8bd75cbf23e4e89",
+    "/static/vendor/jsQR.js": "bc40c8a15196236b2314db0856f72ca0b49980cd5413b8c852a7349f5fee0859",
+    "/static/vendor/libsodium-wrappers.js": "828884732c06fa4443688b33ceb4ab42e6e1b99200e4749be375faa289e94158",
+    "/static/vendor/libsodium.js": "8abec6b42fafb418f58bff3fd665005b3e700ee02dae5042ce5704d27e6fcb23",
+    "/static/vendor/qrcode-generator.js": "18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780",
+    "/sw.js": "fcae53dcbf1f42a64d0b54c947abeca2fba510d1015fa682302f85f114ac2173"
+  },
+  "format": 1,
+  "version": 1,
+  "worker_csp": "default-src 'none'; connect-src 'self' https://raw.githubusercontent.com"
+}
