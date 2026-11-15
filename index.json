@@ -1,8 +1,11 @@
 {
   "format": 1,
-  "latest": 2,
+  "latest": 5,
   "versions": [
     1,
-    2
+    2,
+    3,
+    4,
+    5
   ]
 }
