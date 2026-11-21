@@ -1,12 +1,13 @@
 {
   "format": 1,
-  "latest": 6,
+  "latest": 7,
   "versions": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ]
 }
